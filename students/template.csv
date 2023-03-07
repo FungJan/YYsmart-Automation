@@ -1,3 +1,7 @@
-id,passwd,credit_hr,an,gu,vu,ds,gs,ug,vsyc,heig,name,exclude
+﻿id,passwd,credit_hr,an,gu,vu,ds,gs,ug,vsyc,heig,name,exclude
 学号,密码,学时,安,固,注,冻,公,生,中药,合成,姓名,exclude
-2020190000,Yyzn02552311600,18,1,1,1,1,1,1,0,1,张三,include
+2020201993,Yyzn02552311600,34,1,1,1,1,1,1,1,1,司佳祎,include
+2020201990,Yyzn02552311600,34,1,1,1,1,1,1,1,1,于欣悦,include
+2020201994,Yyzn02552311600,34,1,1,1,1,1,1,1,1,姜雯茜,include
+2020201999,Yyzn02552311600,34,1,1,1,1,1,1,1,1,杜云菲,include
+2020201586,Yyzn02552311600,34,1,1,1,1,1,1,1,1,王雪葳,include
